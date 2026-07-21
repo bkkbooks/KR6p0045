@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6p0045_000.yaml, hash: 'sha256:be9254f4fe6c819cd006b1c23a135bd0a4158ec7ba44117b2941f5a2fc45d1a5'}
+  - {seq: 0, filename: KR6p0045_000.yaml, hash: 'sha256:d4ba84e82a8e27a7d7f6ebbebbd79cb40d241daf4fb07292323633e8c9319cc3'}
   - {seq: 1, filename: KR6p0045_001.yaml, hash: 'sha256:6cb82384546b624fca4c2969b9417861d1be3e0d492461ab69131a72ce3a0ae5'}
   - {seq: 2, filename: KR6p0045_002.yaml, hash: 'sha256:2101471a9d83ddd2a326f425fbc0c616ff78ddd5b4a8c8944cf5c3d2ac6b2a8a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0045_000.markers.yaml, hash: 'sha256:adc79cb4b3c036eb9af7c63a9cf05b99902d8c782f04314f2486b9b0a1851233'}
+  - {seq: 0, role: markers, filename: assets/KR6p0045_000.markers.yaml, hash: 'sha256:928d2415f83403c79820cd9835dc4d691c2a36d390d898ce64378222ab04ca9f'}
   - {seq: 1, role: markers, filename: assets/KR6p0045_001.markers.yaml, hash: 'sha256:4d912f10f034b447164c718c6f4eecc35bb66df7ce0c3ce1384c7ef64eb5a13f'}
   - {seq: 2, role: markers, filename: assets/KR6p0045_002.markers.yaml, hash: 'sha256:12ce77792733976979e69e231460b32692f3e203197797712cedc76d4dc1ef64'}
 table_of_contents:
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0045_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 念佛鏡序
@@ -272,7 +272,7 @@ table_of_contents:
   label: 重鍥念佛鏡敘
   type: mulu
   level: 1
-hash: sha256:0389d93d82ce226eece6601ded891c46cdb842dd8c1cc265728b8b551b70431e
+hash: sha256:8fbeeaf0dc8f312dc79f1dce2da1fb8e3eddc7312302a7d68186434673da1e54
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
